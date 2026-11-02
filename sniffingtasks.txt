@@ -1,0 +1,42 @@
+Easy:
+
+Challenge 0 --> 5182(uname:"user", pass:"password")
+                5494(uname:"admin", pass:"admin")
+                5922(uname:"supraja", pass:"Technologies")
+                6163(uname:"cyberace", pass:"helloworld")
+                6275(uname:"test", pass:"test")
+
+Challenge 1 --> (37209)
+                urname = "Anonymous@hackers"
+                ucc = "0000000000000"
+                uemail = "anonymous@email.com"
+                uphone = "555555555555"
+                uaddress = "Dark World"
+                update = "update"
+
+Challenge 2 --> (18426)
+                "uuname" = "Supraja Technologies"
+                "upass" = "suprajatechnologies.com"
+                "upass2" = "suprajatechnologies.com"
+                "urname" = "CHSMRLSS Technologies Pvt. Ltd"
+                "ucc" = "999999999999"
+                "uemail" = "contact@suprajatechnologies.com"
+                "uphone" = "+91 9550055338"
+                "uaddress" = "Digital World\r\n|\r\n|\r\n|\r\n\r\nL>D3s1n3dBy  CYB3R AC3"
+                "signup" = "signup"
+
+Challenge 3 --> 1559(192.168.0.195 to 5.180.151.73)
+                2334,2505(192.168.0.195 to 43.255.154.57)
+                2836(192.168.0.195 to 35.154.134.64)
+                3588(192.168.0.195 to 52.2.84.116)
+                
+
+Low:
+
+Challenge 0 --> 
+               (natas0:natas0)
+
+Challenge 1 --> Supraja%20R%20Logo%20-%20Social%20Media.jpg
+
+Challenge 2 --> Supraja Technologies
+               
